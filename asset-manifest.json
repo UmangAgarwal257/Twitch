@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Twitch/static/css/main.4b4fc909.css",
+    "main.js": "/Twitch/static/js/main.56b7cfe3.js",
+    "static/media/Chad4.png": "/Twitch/static/media/Chad4.a9beb45d84bbf2d856a1.png",
+    "static/media/Minecraft.jpg": "/Twitch/static/media/Minecraft.a5f7cfc6b7fb561d28ff.jpg",
+    "static/media/Chad2.jpg": "/Twitch/static/media/Chad2.dfa4a52d4d4714fa2271.jpg",
+    "static/media/Weeb.jpg": "/Twitch/static/media/Weeb.654eadb28bfed543e0e3.jpg",
+    "static/media/Chad.webp": "/Twitch/static/media/Chad.d403b298e1302c28261b.webp",
+    "static/media/joystick.png": "/Twitch/static/media/joystick.410d94aa6b2564105ce1.png",
+    "static/media/NPC3.png": "/Twitch/static/media/NPC3.9d9b8ecfe168872aa07c.png",
+    "static/media/NPC4.jpg": "/Twitch/static/media/NPC4.393aa3f3494e9d839f6d.jpg",
+    "static/media/paint.png": "/Twitch/static/media/paint.1ef3aaff76a61b309ee0.png",
+    "static/media/headphone.png": "/Twitch/static/media/headphone.cee5cc6f532af3c24dfe.png",
+    "static/media/GTA V.webp": "/Twitch/static/media/GTA V.efc1bc3ae2bf1d4db4bc.webp",
+    "static/media/chat.jpg": "/Twitch/static/media/chat.fdc0b9356600d9fdd21a.jpg",
+    "static/media/NPC.png": "/Twitch/static/media/NPC.e3445ccb29de75997d1b.png",
+    "static/media/mic.png": "/Twitch/static/media/mic.f6c112d28d9ce75191c8.png",
+    "static/media/Genshin.jpg": "/Twitch/static/media/Genshin.07ff0f113b18e6717205.jpg",
+    "static/media/NPC2.jpg": "/Twitch/static/media/NPC2.f5259ada82dfd0a74585.jpg",
+    "index.html": "/Twitch/index.html",
+    "main.4b4fc909.css.map": "/Twitch/static/css/main.4b4fc909.css.map",
+    "main.56b7cfe3.js.map": "/Twitch/static/js/main.56b7cfe3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b4fc909.css",
+    "static/js/main.56b7cfe3.js"
+  ]
+}
